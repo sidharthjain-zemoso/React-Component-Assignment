@@ -1,0 +1,5 @@
+We have a component called Counter which basically counts the number of button clicks.
+This counter component has a state called count. 
+This counter component renders the value of count and a button which has onClick event handler.
+Whenever a button is clicked, it sets the count as count + 1;
+For each button click, the component is rerendered and value of count is updated in the DOM.

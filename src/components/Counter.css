@@ -1,0 +1,5 @@
+.counter-container {
+  display: grid;
+  justify-content: space-around;
+  align-items: center;
+}
